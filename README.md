@@ -5,7 +5,8 @@ Jump-start your TypeScript journey with this friendly, practical intro from Anja
 ### Links
 
 - Course website: [anjana.dev/typescript-first-steps](https://anjana.dev/typescript-first-steps)
-- Repo: [github.com/vakila/typescript-first-steps](https://github.com/vakila/typescript-first-steps)
+- Repo with slides & exercises: [github.com/vakila/typescript-first-steps](https://github.com/vakila/typescript-first-steps)
+- Fullstack project: [github.com/vakila/event-me](https://github.com/vakila/event-me)
 
 
 ## Overview
@@ -60,3 +61,13 @@ If any or all of those are true, this is the perfect course for you!
 - Ensuring end-to-end type safety
 - Exploring the TS ecosystem
 
+
+## Slides 
+
+- [0-intro](https://anjana.dev/typescript-first-steps/0-intro/slides)
+- [1-javascript](https://anjana.dev/typescript-first-steps/1-javascript/slides)
+- [2-annotations](https://anjana.dev/typescript-first-steps/2-annotations/slides)
+- [3-compiler](https://anjana.dev/typescript-first-steps/3-compiler/slides)
+- [4-workflow](https://anjana.dev/typescript-first-steps/4-workflow/slides)
+- [5-ecosystem](https://anjana.dev/typescript-first-steps/5-ecosystem/slides)
+- [6-outro](https://anjana.dev/typescript-first-steps/6-outro/slides)
