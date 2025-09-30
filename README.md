@@ -1,6 +1,12 @@
 # TypeScript First Steps
 
-Jump-start your TypeScript journey with this friendly, practical intro from Anjana Vakil.
+_Jump-start your TypeScript journey with this friendly, practical intro from Anjana Vakil._
+
+---
+
+This is a companion repository for the [TypeScript First Steps](https://frontendmasters.com/courses/typescript-first-steps/) course on Frontend Masters.
+[![Frontend Masters](https://static.frontendmasters.com/assets/brand/logos/full.png)](https://frontendmasters.com/courses/typescript-first-steps/)
+
 
 ### Links
 
